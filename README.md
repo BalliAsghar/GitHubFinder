@@ -2,8 +2,6 @@
 
 A Simple GitHub Profile Finder built With React, Tailwind
 
-## ScreenShot
-
 ![alt text](https://github.com/BalliAsghar/GitHubFinder/blob/main/GitHubFinder.gif?raw=true)
 
 ## Installation
